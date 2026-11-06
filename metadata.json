@@ -1,0 +1,6 @@
+{
+  "name": "AlphaFeed",
+  "description": "Retro pixel-art 2D word-snake game on an infinite grid. Feed on letters, spell words, avoid obstacles, collect power-ups, customize skins, and compete on global leaderboards and daily challenges with an original synthwave soundtrack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
